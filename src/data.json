@@ -1,0 +1,40 @@
+{
+  "sabers": [
+    {
+      "id": 4456,
+      "name": "Sith Saber",
+      "available": 27,
+      "crystal": {
+        "name": "Ilum crystal",
+        "color": "red",
+        "force": 20,
+        "planet": 13
+      },
+      "price": "101Cr"
+    },
+    {
+      "id": 7766,
+      "name": "Master Jedi Saber",
+      "available": 13,
+      "crystal": {
+        "name": "Dagonbah crystal",
+        "color": "green",
+        "force": 22,
+        "planet": 12
+      },
+      "price": "37Cr"
+    },
+    {
+      "id": 7337,
+      "name": "Padawan Jedi Saber",
+      "available": 8,
+      "crystal": {
+        "name": "Dantooine crystal",
+        "color": "blue",
+        "force": 19,
+        "planet": 11
+      },
+      "price": "10Cr"
+    }
+  ]
+}
