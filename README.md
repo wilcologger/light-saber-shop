@@ -29,11 +29,16 @@ JEDI-1​:​ As a padawan I want to be able to read in a json file that contain
 }
 
 ```
-JEDI-2​: As a padawan I want to be able to supply my age, so that I can see how much force is needed to use a saber. 
-JEDI-3​:​ As a padawan I want to order a saber. This order needs to be archived for the Jedi master 
-JEDI-4​: ​As a Jedi master I want to be able to see the list of orders that are placed, only a jedi master can see this information with a force provided password. 
-JEDI-5​: ​As a Jedi master I want to be able to adjust the stock of existing and non-existing sabers. 
-JEDI-6​: ​ As a padawan I want to see which planet the crystal comes which is used in the saber API documentation is found on https://swapi.co/ 
+JEDI-2​: As a padawan I want to be able to supply my age, so that I can see how much force is needed to use a saber.
+
+JEDI-3​:​ As a padawan I want to order a saber. This order needs to be archived for the Jedi master
+
+JEDI-4​: ​As a Jedi master I want to be able to see the list of orders that are placed, only a jedi master can see this information with a force provided password.
+
+JEDI-5​: ​As a Jedi master I want to be able to adjust the stock of existing and non-existing sabers.
+
+JEDI-6​: As a padawan I want to see which planet the crystal comes which is used in the saber API documentation is found on https://swapi.co/ 
+
 
 ## Project setup
 ```
