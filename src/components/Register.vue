@@ -1,6 +1,6 @@
 <template>
   <div class="col-md-12">
-    <div class="card card-container">
+    <div class="card">
       <img
         id="profile-img"
         src="//ssl.gstatic.com/accounts/ui/avatar_2x.png"
