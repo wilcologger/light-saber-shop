@@ -1,5 +1,5 @@
 <template>
-  <div class="col-md-12">
+  <div class="mx-auto py-4 w-50">
     <div class="card">
       <img
         id="profile-img"
